@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Oliver Smith",
+    "inoffice": true
+  },
+  {
+    "name": "Emily Brown",
+    "inoffice": true
+  },
+  {
+    "name": "Lily Wilson",
+    "inoffice": false
+  },
+  {
+    "name": "Jack Roberts",
+    "inoffice": true
+  },
+  {
+    "name": "Charlie Martin",
+    "inoffice": true
+  },
+  {
+    "name": "James Lee",
+    "inoffice": true
+  },
+  {
+    "name": "Ava Anderson",
+    "inoffice": false
+  }
+]
